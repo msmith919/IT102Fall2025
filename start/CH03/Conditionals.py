@@ -1,3 +1,9 @@
 #!/usr/bin/env python3
 # example workign with conditionals
-#By 
+#By Margaret
+
+question = input("Is today a good day? Please answer with y or n:")
+
+if question == 'y':
+    print("Yes it is")
+    
